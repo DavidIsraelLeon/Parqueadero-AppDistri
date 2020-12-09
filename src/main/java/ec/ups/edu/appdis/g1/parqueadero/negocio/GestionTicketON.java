@@ -1,5 +1,6 @@
 package ec.ups.edu.appdis.g1.parqueadero.negocio;
 
+import ec.ups.edu.appdis.g1.parqueadero.modelo.Cliente;
 import ec.ups.edu.appdis.g1.parqueadero.modelo.Ticket;
 import ec.ups.edu.appdis.g1.parqueadero.modelo.Vehiculo;
 
@@ -20,7 +21,7 @@ public class GestionTicketON {
 	}	
 	
 	public boolean registrarCliente(Cliente cliente) {
-		
+		return true;
 		
 	}
 
